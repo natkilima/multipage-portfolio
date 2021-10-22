@@ -98,6 +98,11 @@ p {
     color: grey;
   }
 
+  h3 {
+    font-size: 19px;
+    opacity: 0.5;
+  }
+
   p {
     font-size: 15px;
     text-align: center;
