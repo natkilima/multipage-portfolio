@@ -90,12 +90,12 @@ p {
 @media (max-width: 800px) {
   h1 {
     font-size: 55px;
-    color: rgb(64, 64, 64);
+    color: grey;
   }
 
   h2 {
     font-size: 34px;
-    color: rgb(64, 64, 64);
+    color: grey;
   }
 
   p {
