@@ -106,4 +106,8 @@ p {
   .weather-image {
     display: none;
   }
+
+  .img {
+    display: none;
+  }
 }
